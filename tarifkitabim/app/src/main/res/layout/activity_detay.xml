@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.abc.tarifkitabim.Activities.DetayActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:id="@+id/imGeri"
+                    android:layout_width="35dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right"
+                    android:background="#F46607"
+                    android:minHeight="48dp"
+                    app:srcCompat="@drawable/back"
+                    tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+                <TextView
+                    android:id="@+id/textViewBaslik"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:background="#F46607"
+                    android:text="EZOGELİN ÇORBASI"
+                    android:textAlignment="center"
+                    android:textColor="#F8F1F1"
+                    android:textSize="20sp"
+                    tools:ignore="TextContrastCheck" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/ivYemek"
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                android:layout_marginTop="1dp"
+                android:padding="10dp"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/placeholder" />
+
+            <TextView
+                android:id="@+id/tvMalzemeler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#F46607"
+                android:text="MALZEMELER"
+                android:textAlignment="center"
+                android:textColor="#C8E6C9"
+                android:textSize="16sp"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/txmalz"
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                android:text="MALZEMELER..." />
+
+            <TextView
+                android:id="@+id/tvYapilis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="41dp"
+                android:background="#F46607"
+                android:paddingTop="5dp"
+                android:text="YAPILIŞI"
+                android:textAlignment="center"
+                android:textColor="#80DEEA"
+                android:textSize="16sp"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/txyapilis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:text="YAPILIŞ..." />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

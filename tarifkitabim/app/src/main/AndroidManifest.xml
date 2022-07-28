@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abc.tarifkitabim">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/foto"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/foto"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.tarifkitabim"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Activities.AramaDetayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.AramaActivitySayfasi"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.EklemeDetayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.EkleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.DetayPopular"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.HesapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.DetayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.YemeklerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.FirstActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/arama_background.xml" value="0.2595" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/kalp_dolu.xml" value="0.208" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/menu.xml" value="0.2265" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/orange_button.xml" value="0.2" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/reklam_banner.xml" value="0.245" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/search.xml" value="0.2225" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/selector_favorilistesi.xml" value="0.208" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_bos.xml" value="0.17109375" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_detay.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_first.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_hesap.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_hesap_olusturma.xml" value="0.37421875" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_profil.xml" value="0.37421875" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_yemek_cesitler.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_yemekler.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/alert_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/card_tasarim.xml" value="0.6" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/fragment_blank.xml" value="0.37421875" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/fragment_settings.xml" value="0.353125" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/kategoriler_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/nested_child_card_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/nested_parent_card_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/populer_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/yemekler_card_tasarim.xml" value="0.72" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/menu/toolbar_menu.xml" value="0.4" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.176" />
+        <entry key="..\:/Users/ozer BAYRAKTAR/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/xml/prefs.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/TarifKitabim/app/src/main/res/layout/activity_first.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable-mdpi/kalp_doluu.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/arama_background.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/ekle_banner.xml" value="0.207" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/kalp_bos.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/kalp_dolu.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/logo_icon_foreground.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/menu.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/orange_button.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/people.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/person.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/reklam_banner.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/search.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/selector_favorilistesi.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/star.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/drawable/time.xml" value="0.204" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_deneme.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_detay.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_detayPopular.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_detay_popular.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_detaytwo.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_ekle.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_ekleme_detay.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_ekleme_ekrani.xml" value="0.37578125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_favori.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_first.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_hesap.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_main.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/activity_yemekler.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/alert_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/alert_tasarimm.xml" value="0.38046875" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/ekleme_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/kategoriler_card_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/populer_card_tasarim.xml" value="0.536" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/layout/yemekler_card_tasarim.xml" value="0.536" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/menu/popup_menu.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/menu/popupp_menu.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/YemekUygulamasi/app/src/main/res/menu/toolbar_menu.xml" value="0.38046875" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/drawable/arama_background.xml" value="0.166" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/drawable/arama_yeni.xml" value="0.166" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/drawable/edit_ad_banner.xml" value="0.166" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_arama_detay.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_arama_sayfasi.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_detay.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_detaytwo.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_ekle.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_ekleme_detay.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_favori.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_first.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_hesap.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_main.xml" value="0.37578125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/activity_yemekler.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/alert_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/alert_tasarimm.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/arama_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/ekleme_card_tasarim.xml" value="0.37578125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/kategoriler_card_tasarim.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/populer_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/layout/yemekler_card_tasarim.xml" value="0.4" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/menu/arama_menu.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/menu/popupp_menu.xml" value="0.38125" />
+        <entry key="..\:/Users/ozerb/AndroidStudioProjects/tarifkitabim/app/src/main/res/menu/toolbar_menu.xml" value="0.38125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

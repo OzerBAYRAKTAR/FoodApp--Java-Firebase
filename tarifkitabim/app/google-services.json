@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60916543791",
+    "project_id": "tarifkitabim-b7d6a",
+    "storage_bucket": "tarifkitabim-b7d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60916543791:android:f1959f41b7df12c327b1da",
+        "android_client_info": {
+          "package_name": "com.abc.tarifkitabim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60916543791-gomelvq1a2ah0b6685nniofm9na2n3vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61HGMoOcnlz4SC-kUA7Qa8tul-2v5t08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60916543791-gomelvq1a2ah0b6685nniofm9na2n3vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
