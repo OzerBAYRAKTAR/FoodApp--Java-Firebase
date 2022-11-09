@@ -1,7 +1,8 @@
-# Play store'da yayınladığım bu uygulamada Firebase ve SQLite kullanıdm
-![1](https://user-images.githubusercontent.com/105236639/200174238-b60403d5-5a40-4161-8650-be368cca17a3.png)
-![2](https://user-images.githubusercontent.com/105236639/200174239-d72c39c1-42ee-4c35-a831-4ec9df45de77.png)
-![3](https://user-images.githubusercontent.com/105236639/200174244-fd5451f5-5895-4db6-9197-f400428a9ee8.png)
-![4](https://user-images.githubusercontent.com/105236639/200174249-2aaa81a1-bebf-420f-ad9a-31a9125c5b18.png)
+# App that i've published in play store
+![t11](https://user-images.githubusercontent.com/105236639/200898194-4c171df7-1a19-4d94-a96c-d4f30b978ee6.png)
+![t22](https://user-images.githubusercontent.com/105236639/200898218-f7bcda0a-7efa-408b-ac13-1e62294e03f6.png)
+- ![t33](https://user-images.githubusercontent.com/105236639/200898242-285b2623-4dd3-46d0-8d0c-867df9c3219c.png)
+- ![t44](https://user-images.githubusercontent.com/105236639/200898256-892ed2ce-95e5-43a5-bc3c-45e71ca2fab7.png)
+
 
 
